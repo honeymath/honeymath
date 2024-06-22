@@ -9,7 +9,7 @@ Projects and Ideas.
 > [Honeymath Platform](https://github.com/honeymath/honeyplatform) This is a platform generating math exercises. The website is available at https://honeymath.com
 > I have used this platform during pandemic for teaching
 
-## 💪 I am strong at MATH
+## 💪 My backgrounds
 
 As a math Ph.D and an assistant professor working at university. I have solid math background. At the same time I am a fan of coding. Take a look at my math papers available at [http://qirui.li](http://qirui.li)
 
