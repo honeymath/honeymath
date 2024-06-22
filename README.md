@@ -3,6 +3,13 @@
 # Qirui Li
 
 This is my github webpage. From here you can preview my ideas and softwares that developed.
+
+## 🔭 I’m currently working on
+
+> [Honeymath Platform](honeyplatform/README.md) This is a platform generating math exercises. The website is available at https://honeymath.com
+> I have used this platform during pandemic for teaching
+
+
 <!--
 **honeymath/honeymath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
