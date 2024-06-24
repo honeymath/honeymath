@@ -12,8 +12,10 @@ Honeymath is an online platform aimed at enhancing mathematics education through
 > [Honeymath Platform](https://github.com/honeymath/honeyplatform) This is a platform generating math exercises. The website is available at https://honeymath.com
 > I have used this platform during pandemic for teaching
 
-### Logic Guide
+### LogicGuide
 
+Repository [/honeymath/logicguide](https://hithub.com/honeymath/logicguide)
+Website(API) [https://logicguide.api](https://logicguide.api)
 
 This is a potential solution for AI reasoning.
 
