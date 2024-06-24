@@ -12,12 +12,12 @@ Honeymath is an online platform aimed at enhancing mathematics education through
 > [Honeymath Platform](https://github.com/honeymath/honeyplatform) This is a platform generating math exercises. The website is available at https://honeymath.com
 > I have used this platform during pandemic for teaching
 
-### APIs for GPT
+### Logic Guide
 
 
-This is a potential solution for AI reasoning, using ideas of AI agent.
+This is a potential solution for AI reasoning.
 
-gptapi is Developing an API platform for GPTs. It can be used for memories and questionares for GPT. 
+**LogicGuide** empowers users to create structured logic maps by guiding AI through targeted questioning. This API helps Large Language Models (LLMs) break down complex problems and generate organized insights through a series of tailored questions.
 
 ## 💪 My backgrounds
 
