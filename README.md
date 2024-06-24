@@ -6,8 +6,18 @@ Projects and Ideas.
 
 ## 🔭 I’m currently working on
 
+### Honeymath Platforms
+Honeymath is an online platform aimed at enhancing mathematics education through interactive problem-solving and assignment management. It features cross-platform compatibility, uses Python for creating platform-independent problems, and offers an interactive learning environment with instant feedback. It also supports comprehensive assignment management with automatic grading and role-based access for students, TAs, and instructors. For more information, visit [honeymath.com](https://honeymath.com).
+
 > [Honeymath Platform](https://github.com/honeymath/honeyplatform) This is a platform generating math exercises. The website is available at https://honeymath.com
 > I have used this platform during pandemic for teaching
+
+### APIs for GPT
+
+
+This is a potential solution for AI reasoning, using ideas of AI agent.
+
+gptapi is Developing an API platform for GPTs. It can be used for memories and questionares for GPT. 
 
 ## 💪 My backgrounds
 
