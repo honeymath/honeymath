@@ -23,7 +23,11 @@ This is a potential solution for AI reasoning.
 
 My next plan is to syncronize the github push API with GPT so that I can design software in GPT and it take actions to modify my codes. The design has the following steps: 
 1. Establish test repository, collect data write local python code to try push it.
-   
+
+   Repository URL: 
+Personal Access Token: 
+Repository Name: 
+Username
 3. 2. Based on the behavior design data structure and API.
 
    4. 3. Test with GPTs,
