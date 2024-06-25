@@ -21,18 +21,6 @@ This is a potential solution for AI reasoning.
 
 **LogicGuide** empowers users to create structured logic maps by guiding AI through targeted questioning. This API helps Large Language Models (LLMs) break down complex problems and generate organized insights through a series of tailored questions.
 
-My next plan is to syncronize the github push API with GPT so that I can design software in GPT and it take actions to modify my codes. The design has the following steps: 
-1. Establish test repository, collect data write local python code to try push it.
-
-   Repository URL: 
-Personal Access Token: 
-Repository Name: 
-Username
-3. 2. Based on the behavior design data structure and API.
-
-   4. 3. Test with GPTs,
-      4. 4. Design the workflow. Design the test file and test flow then ask GPT to write code.
-
 ## 💪 My backgrounds
 
 As a math Ph.D and an assistant professor working at university. I have solid math background. At the same time I am a fan of coding. Take a look at my math papers available at [http://qirui.li](http://qirui.li)
