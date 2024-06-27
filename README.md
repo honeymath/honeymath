@@ -12,10 +12,7 @@ Honeymath is an online platform aimed at enhancing mathematics education through
 > [Honeymath Platform](https://github.com/honeymath/honeyplatform) This is a platform generating math exercises. The website is available at https://honeymath.com
 > I have used this platform during pandemic for teaching
 
-### LogicGuide
 
-Repository [/honeymath/logicguide](https://github.com/honeymath/logicguide)
-Website(API) [https://logicguide.api](https://logicguide.api)
 
 This is a potential solution for AI reasoning.
 
@@ -27,7 +24,7 @@ As a math Ph.D and an assistant professor working at university. I have solid ma
 
 ## 🌱 I’m currently learning...
 
-I am interested in this project [Mr Randeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor), where the prompt is in code-format, making GPT scriptable! 
+I am interested in building an AI agent and workflow automation. I am building APIs to equipped my GPTs with arms and legs. Although Apple Intellegence is coming, I think being able to build these on my own would give me some flexibility.
 
 
 ## 📫 How to reach me:
