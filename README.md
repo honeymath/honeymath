@@ -41,9 +41,9 @@ I am interested in building projects with [AutoGen](https://github.com/microsoft
 
 If AI reaches human intelligence, humans will have created an object as smart as themselves. AI will then be able to do anything humans can.
 
-Humans create human-level AI, which can create AII, which can create AIII, and so on. This infinite chain is mathematically a singularity.
+Humans create human-level AI, which can create AI-level AII, which can create AII-level AIII, and so on.  This infinite chain of equal-intelligence-objects is mathematically a singularity.
 
-After this point, AI's intelligence will surpass humans, AII will surpass AI, AIII will surpass AII, and so on. The only limitation is energy.
+After this point, AI's intelligence will surpass humans, AII will surpass AI, AIII will surpass AII, and so on. The only limitation is energy. All enegies will be consumed and transformed into technology. ASI will become soon after AGI.
 
 So, be prepared.
 
