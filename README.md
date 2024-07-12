@@ -29,7 +29,7 @@ I am interested in building an AI agent and workflow automation. I am building A
 I am interested in building projects with [AutoGen](https://github.com/microsoft/autogen).
 
 
-## The future about AI, AGI, and ASI
+## 🤖 The future about AI, AGI, and ASI
 
 - Current challenge of AI:  Energy supply; Limit of calculating ability.
 
