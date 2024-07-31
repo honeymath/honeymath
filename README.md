@@ -29,7 +29,9 @@ I am interested in building an AI agent and workflow automation. I am building A
 I am interested in building projects with [AutoGen](https://github.com/microsoft/autogen).
 
 
-## 🤖 The future about AI, AGI, and ASI
+## 🤖 The future world
+
+The Artificial Intellegence has been developed for 70 years. From the emerging of the first usable language model, we are experiencing some dramatic change within the next 50 years. It is for everyone, and they should all learn the new way to work.
 
 - Current challenge of AI:  Energy supply; Limit of calculating ability.
 
