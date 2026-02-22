@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Qirui Li
+# Qirui Li (I am a human)
 
 Projects and Ideas.
 
